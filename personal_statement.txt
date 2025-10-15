@@ -1,1 +1,1 @@
-main branch에서 personal_statement.txt 파일을 만들고 commit 해보세요.
+'개발자로서 포부'
