@@ -1,1 +1,1 @@
-local computer에 repository의 main branch에서 resume.txt파일을 만들고 commit 해보세요.
+'자격증, 대외활동, 사용기술'
